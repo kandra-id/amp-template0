@@ -7,8 +7,8 @@ layout: default
 <div placeholder="" class="commerce-loader"></div>      </amp-img> Gambar Artikel Sebelum Masuk ke Artikel-->
       <div class="mt3">
         <h1 class="h3">{{ page.title }}</h1>
-        <time datetime="{{ page.date | date: '%B %d, %Y' }}" class="inline mb2">{{ page.date | date: '%B %d, %Y' }}</time> <label> {% for tag in page.tags %}  {{ tag }} {% endfor %} </label>
-        <p class="mb5">Ringkasan Artikel.</p>
+        <time datetime="{{ page.date | date: '%B %d, %Y' }}" class="inline mb2">{{ page.date | date: '%B %d, %Y' }}</time> <label class="inline mb2"> {% for tag in page.tags %}  {{ tag }} {% endfor %} </label>
+        <p class="h7 mb5 mt4">Ringkasan Artikel.</p>
       </div>
   {{ content }}
   {% if page.previous.url %}
