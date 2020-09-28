@@ -7,7 +7,7 @@ layout: default
 <div placeholder="" class="commerce-loader"></div>      </amp-img> Gambar Artikel Sebelum Masuk ke Artikel-->
       <div class="mt3">
         <h1 class="h3">{{ post.title }}</h1>
-        <time datetime="{{ page.date | date: '%B %d, %Y' }}" class="block mb2">{{ post.date | date: '%B %d, %Y' }}</time> {% for tag in post.tags %}<span class="block mb2"> {{ tags }} </span>{% endfor %}
+        <time datetime="{{ page.date | date: '%B %d, %Y' }}" class="block mb2">{{ page.date | date: '%B %d, %Y' }}</time> {% for tag in post.tags %}<span class="block mb2"> {{ tag }} </span>{% endfor %}
         <p class="mb5">Ringkasan Artikel.</p>
       </div>
   {{ content }}
