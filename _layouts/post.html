@@ -7,7 +7,7 @@ layout: default
 <div placeholder="" class="commerce-loader"></div>      </amp-img> Gambar Artikel Sebelum Masuk ke Artikel-->
       <div class="mt3">
         <h1 class="h3">{{ post.title }}</h1>
-        <time datetime="2017-03-31T00:00" class="block mb2">31st March 2017</time>
+        <time datetime="{{ page.date | date: '%B %d, %Y' }}" class="block mb2">{{ page.date | date: '%B %d, %Y' }}</time>
         <p class="mb5">Ringkasan Artikel.</p>
       </div>
   {{ content }}
