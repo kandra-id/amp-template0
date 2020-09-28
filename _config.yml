@@ -1,0 +1,6 @@
+title: Kandra.ID
+url: https://kandra-id.github.io
+author: kandra
+permalink: /:title
+plugins:
+  - jekyll-redirect-from
