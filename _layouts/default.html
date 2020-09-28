@@ -4,20 +4,23 @@
 <body>
 {% include navbar.html %}
 {{ content }}
+  <section class="commerce-blog-wrapper col-12 md-col-8 px2 pt2 pb3 md-px4 md-pt1 md-pb3">
+      <h1 class="xs-hide sm-hide md-commerce-header h3 md-py2 md-mb4">featured posts</h1>
   {% for post in site.posts %}
   <a href="{{ post.url }}">
 <article>
-  <amp-img class="mb3" src="../img/e-commerce/blog-narrow-01.png" srcset="../img/e-commerce/blog-narrow-01.png 750w,../img/e-commerce/blog-wide-01.png 1280w" width="750" height="427" layout="responsive" alt="No sleep &#39;til Brooklyn" noloading="">
+  <amp-img class="mb3" src="{{ post.image }}" srcset="{{ post.image }} 750w,{{ post.image }} 1280w" width="750" height="427" layout="responsive" alt="{{post.title}}" noloading="">
 <div placeholder="" class="commerce-loader"></div>  </amp-img>
   <div class="mb3 md-mx0">
-    <h2 class="h3">No sleep &#39;til Brooklyn</h2>
+    <h2 class="h3">{{ post.title }}</h2>
     <time datetime="2017-03-31T00:00" class="block mb2">31st March 2017</time>
-    <p class="mb2">Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
-    <a href="blog-article.amp.html" class="commerce-blog-link inline-block h7 md-mb4">read more</a>
+    <p class="mb2">{{post.excerpt}}</p>
+    <a href="{{ post.url }}" class="commerce-blog-link inline-block h7 md-mb4">read more</a>
   </div>
 </article>
   </a>
   {% endfor %}
+    </section>
 {% include footer.html %}
 </body>
 </html>
