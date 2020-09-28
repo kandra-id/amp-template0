@@ -6,10 +6,8 @@ layout: default
   <h1 class="xs-hide sm-hide md-commerce-header h3 md-py2 md-mb4">featured posts</h1>
   {% for post in site.posts limit : 5 %}
   <article>
-    {% undless post.image == "" %}
     <amp-img class="mb3" src="{{ post.image }}" srcset="{{ post.image }} 750w,{{ post.image }} 1280w" width="750" height="427" layout="responsive" alt="{{post.title}}" noloading="">
 <div placeholder="" class="commerce-loader"></div>  </amp-img>
-    {% endundless %}
   <div class="mb3 md-mx0">
     <h2 class="h3">{{ post.title }}</h2>
     <time datetime="{{ page.date | date: '%B %d, %Y' }}" class="block mb2">{{ page.date | date: '%B %d, %Y' }}</time>
