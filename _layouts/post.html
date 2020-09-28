@@ -8,7 +8,7 @@ layout: default
       <div class="mt3">
         <h1 class="h3">{{ post.title }}</h1>
         <time datetime="{{ page.date | date: '%B %d, %Y' }}" class="block mb2">{{ page.date | date: '%B %d, %Y' }}</time> 
-            {% for tag in page.tags %} <span class="block mb2"> {{ tag }} </span> {% endfor %}
+        <label> {% for tag in page.tags %}  {{ tag }} {% endfor %} </label>
         <p class="mb5">Ringkasan Artikel.</p>
       </div>
   {{ content }}
