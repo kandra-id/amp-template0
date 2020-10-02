@@ -19,4 +19,16 @@ layout: default
 {% include aside.html %}
 </main>
 -->
-{{ site.tags.TAG }}
+{% for tag in site.tags %}
+{% capture tag_name %}{{ tag | first }}{% endcapture %}
+{% for post in site.tags[tag_name] %}
+<article>
+  <div class="mb3 md-mx0">
+    <h2 class="h3">{{ tag[0] }}</h2>
+    <time datetime="{{ page.date | date: '%B %d, %Y' }}" class="block mb2">{{ page.date | date: '%B %d, %Y' }}</time>
+    <p class="mb2">{{post.excerpt | strip_html | truncatewords: 15 }}</p>
+    <a href="{{ post.url }}" class="commerce-blog-link inline-block h7 md-mb4">read more</a>
+  </div>
+</article>
+{% endfor %}
+{% endfor %}
