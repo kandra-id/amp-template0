@@ -10,7 +10,7 @@ layout: default
 {% endif %}
       <div class="mt3">
         <h1 class="h3">{{ page.title }}</h1>
-        <span class="author">By {% if site.author %}{{ site.author }}{% else %}{{ site.title }}{% endif %}</span> at <time datetime="{{ page.date | date: '%B %d, %Y' }}" class="inline mb2">{{ page.date | date: '%B %d, %Y' }}</time> in tags <label class="inline mb2 tag"> {% for tag in page.tags %} {% capture tag_name %} {{ tag }} {% endcapture %}<a href="/tags/{{ tag }}">{{ tag }}</a>{% endfor %}</label> 
+        <span class="author">by {% if site.author %}{{ site.author }}{% else %}{{ site.title }}{% endif %}</span> at <time datetime="{{ page.date | date: '%B %d, %Y' }}" class="inline mb2">{{ page.date | date: '%B %d, %Y' }}</time> in tags <label class="inline mb2 tag"> {% for tag in page.tags %} {% capture tag_name %} {{ tag }} {% endcapture %}<a href="/tags/{{ tag }}">{{ tag }}</a>{% endfor %}</label> 
         <p class="h7 mb5 mt4"> {% if page.description %} {{ page.description }} {% endif %} </p>
       </div>
   {{ content }}
@@ -25,7 +25,7 @@ layout: default
   <section class="commerce-related-products col-8 px2 md-mt5 md-px4 ">
     <div class="col-12 mt3 md-mt4">
       <h2 class="h5 md-h4">You May Also Like</h2>
-      <!-- Related Post Based on Tags 
+      <!-- Related Post Based on Tags -->
       {% assign maxRelated = 4 %}
       {% assign minCommonTags =  2 %}
       {% assign maxRelatedCounter = 0 %}
@@ -51,7 +51,7 @@ layout: default
       {% break %}
       {% endif %}
       {% endif %}
-      {% endfor %}-->
+      {% endfor %}
     </div>
   </section>
 </main>
