@@ -1,24 +1,14 @@
 ---
-id: 5435
 title: Jogger Dakkar Sepatu Safety Terbaik Lindungi Diri Anda
-date: 2020-03-10T10:08:43+00:00
-author: kandra
-excerpt: Menjaga diri saat bekerja, mengurangi resiko cedera dengan menggunakan outfit yang tepat.
+description: Menjaga diri saat bekerja, mengurangi resiko cedera dengan menggunakan outfit yang tepat.
 layout: post
-guid: https://pencaricerah.com/?p=5435
-permalink: /sepatu-safety-terbaik/
-amp_status:
-  - disabled
-spay_email:
-  - ""
-categories:
-  - Sponsored
+tag: Sponsored
 ---
 BLS Amerika Serikat mencatat bahwa angka kecelakaan kaki yang dialami oleh para pekerja di industri berat masih tergolong cukup tinggi. Tercatat bahwa hampir sekitar 40 orang pekerja di industri pernah mengalami kecelakaan pada bagian jari kaki dan kakinya. Banyak hal yang bisa menjadi penyebab tingginya angka kecelakaan pekerja pada bagian kaki, salah satunya karena tidak dapat menggunakan sepatu _safety_ terbaik.
 
-Banyak pekerja ataupun pengusaha yang belum memahami jenis sepatu safety terbaik yang seharusnya digunakan oleh pekerja. Padahal, tidak semua sepatu safety ternyata cocok untuk digunakan pekerja di semua jenis industri. Beberapa kriteria harus terdapat pada sepatu safety khusus untuk pekerja di bidang tertentu sementara bidang lainnya tidak. <figure class="wp-block-image size-large">
+Banyak pekerja ataupun pengusaha yang belum memahami jenis sepatu safety terbaik yang seharusnya digunakan oleh pekerja. Padahal, tidak semua sepatu safety ternyata cocok untuk digunakan pekerja di semua jenis industri. Beberapa kriteria harus terdapat pada sepatu safety khusus untuk pekerja di bidang tertentu sementara bidang lainnya tidak.
 
-<img loading="lazy" width="630" height="473" src="https://pencaricerah.com/wp/wp-content/uploads/2020/10/sepatu-safety-jogger-dakar.jpg" alt="" class="wp-image-5525" srcset="https://pencaricerah.com/wp/wp-content/uploads/2020/10/sepatu-safety-jogger-dakar.jpg 630w, https://pencaricerah.com/wp/wp-content/uploads/2020/10/sepatu-safety-jogger-dakar-300x225.jpg 300w" sizes="(max-width: 630px) 100vw, 630px" /> </figure> 
+<amp-img width="630" height="473" src="{{site.url}}/assets/img/blog/sepatu-safety-jogger-dakar-300x225.jpg" alt="jogger dakkar"></amp-img>
 
 ## **Rekomendasi Sepatu Safety Terbaik Sesuai Dengan Potensi Bahaya**
 
