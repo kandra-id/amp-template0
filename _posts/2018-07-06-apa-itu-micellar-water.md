@@ -1,0 +1,46 @@
+---
+id: 4250
+title: Apa itu Micellar Water? Cowok Juga Harus Tahu
+date: 2018-07-06T14:40:05+00:00
+author: kandra
+layout: post
+guid: https://pencaricerah.com/?p=4250
+permalink: /apa-itu-micellar-water/
+categories:
+  - Sponsored
+tags:
+  - MicellAIR Skin Breathe
+  - nivea
+---
+Kecantikan itu tidak hanya terlihat dari wajah (fisik) tetapi juga dari akhlak atau psikologis.Namun ungkapan itu tidak selalu benar. Tidak percaya? Coba perhatikan teman-teman pria kamu yang sedang berjalan lalu ketemu artis di Mall atau wanita yang tidak dikenal. Naluri pria pun beraksi dengan spontan menoleh hanya sekedar melihat atau malah melotot melihat kecantikan wanita atau artis tadi.
+
+Bahkan kalau pria itu sudah beristri cantik sekalipun. Jika ada wanita yang baru dan wajahnya tergolong cantik, spontan pria itu akan melirik meskipun cubitan istri yang sedang jalan bareng menjadi konsekwensinya. Oleh karena itu saya pikir wajar jika setiap wanita pasti sangat memperhatikan penampilannya mulai dari fashion yang up to date sampai perawatan wajah yang harus sesuai dan tak ketinggalan jaman.
+
+Nah, untuk masalah perawatan wajah ini tidak segampang dalam menggunakan masalah fashion, tapi perlu ada penyesuaian dengan jenis kulit yang dimiliki. Terkadang brand kecantikan mahal pun jika tidak cocok dengan jenis kulit tidak akan bisa kamu pakai karena akan menyebabkan masalah lain yang lebih serius. Seperti kisah Bunbun yang ditulis Hipwee. Beauty blogger asal Singapura tersebut yang mendapati munculnya bintik-bintik seperti jerawat baru dan ruam-ruam merah setelah sehari sebelumnya melakukan treatment facial. Belakangan diketahui kalau wajah Bunbun ternyata alergi terhadap bahan-bahan facial yang digunakan.
+
+Sepanjang yang saya amati produk kecantikan umum yang biasa dimiliki wanita adalah bedak, foundation, dan lipstick. Namun, yang paling diabaikan oleh wanita adalah produk pembersih wajah usai menggunakan make up. Sebagian wanita pasti menganggap hal remeh masalah ini karena mereka bisa membersihkannya dengan air. Padahal, air saja tidak cukup untuk menjangkau sisa make up yang sulit hilang dan nantinya malah akan menjadi sumber masalah baru seperti sumber jerawat.
+
+Anna Pursglove seorang penulis di media Inggris Daily Mail mengalami kerusakan akibat tidak membersihkan make up yang ia gunakan sebelum beristirahat. Wajahnya mengalami kemerahan akibat iritasi, muncul jerawat kecil dan terlihat kusam. Bahkan lebih berbahaya lagi karena kulit Anna mengalami pigmentasi, pembuluh darah rusak, pori-pori membesar dan meningkatnya kerutan-kerutan pada wajah.
+
+Pastinya saya tidak ingin istri / adik saya mengalami kejadian seperti Anna dan Bunbun jadi untuk menghindari permasalahan-permasalahan kulit wajah yang sensitif seperti mereka kamu perlu mencoba produk terbaru berupa micellar water.
+
+**Apa itu micellar water?** 
+
+Micellar water merupakan cairan yang terbuat dari molekul minyak berukuran mikro dan terlihat seperti air. Bentuk Micell ini seperti bola-bola kecil yang akan mengangkat minyak dan kotoran dari wajah.
+
+Mengapa harus menggunakan micellar water untuk membersihkan wajah?  
+Saya baru mengetahui kalau membersihkan make up itu tidak cukup dengan air saja atau menggunakan cleanser. Apalagi jika wajah kita itu tergolong sensitif. Kena debu dikit langsung merah atau besoknya berjerawat. Produk <a href="https://www.nivea.co.id/article/beri-kesempatan-kulit-bernafas" target="_blank" rel="noopener noreferrer">micellar water untuk kulit sensitif</a> seperti yang dikeluarkan oleh Nivea tidak hanya membersihkan kulit secara menyeluruh, tapi juga sangat efektif dalam dalam melembabkan dan menyegarkan kulit sehingga kulitmu akan terawat dengan baik dan tetap sehat meskipun telah seharian menggunakan make up. Jadi, meski kamu punya keluhan kulit sensitif dan takut untuk mencoba perawatan ini, jangan khawatir. Produk MicellAIR Skin Breathe menggunakan juga bebas dari pewarna, alkohol, silikon, paraben, parfum, dan hanya menggunakan formula dan bahan yang aman terbukti aman dan telah teruji secara dermatologis.
+
+Penggunaan MicellAIR Skin Breathe sangat mudah. Pertama, bersihkan terlebih dulu sisa make up dari wajah dengan menggunakan kapas. Setelah itu, gunakan micellar water yang kamu miliki pada seluruh bagian kulit wajah termasuk mata dan bagian sensitif lainnya. Khusus cewek yang menggunakan maskara bisa menambahkan dengan menggunakan Nivea Double Eye Remover untuk maskara waterproof.
+
+Untuk cowok sedang mempersiapkan pesta atau resepsi pernikahan jangan lupa ingatkan calon istri kamu untuk beli ini. Bedakan aja tidak pernah tapi di acara yang sangat sakral dan sekali seumur hidup itu kita akan pasrah dikasi foundation oleh penata rias. (Muka kamu akan berasa tebel dan kamu akan merasakan kenapa ungkapan tebal muka itu adalah sarkasme)
+
+[Micellar water untuk pria](https://pencaricerah.com/micellar-water-untuk-pria/)
+
+Kalau menurut penata rias pas saya nikah kemarin tujuannya agar wajah tidak terlalu gelap saat difoto. Ini pengalaman saya. Jadi jangan lupa siapkan <a href="https://www.nivea.co.id/article/beri-kesempatan-kulit-bernafas" target="_blank" rel="noopener noreferrer">micellar water untuk kulit sensitif dan berjerawat</a> jadi kamu bisa siap sedia untuk orang-orang terdekatmu di acara spesialmu.
+
+Referensi:
+
+  * https://www.hipwee.com/tips/7-kasus-kulit-rusak-akibat-make-up/
+  * https://en.wikipedia.org/wiki/Micelle
+  * https://www.realsimple.com/beauty-fashion/skincare/micellar-water-explainer
