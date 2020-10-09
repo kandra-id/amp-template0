@@ -6,8 +6,7 @@ author: kandra
 layout: post
 guid: https://pencaricerah.com/?p=5347
 permalink: /cara-membuat-bantal-pemanas-tradisional-untuk-nyeri-perut/
-categories:
-  - Sponsored
+tag: sponsored
 ---
 <div class="wp-block-cover has-background-dim" style="background-image:url(https://pencaricerah.com/wp-content/uploads/2020/02/jangan-ganggu-cewek-1024x685.jpg)">
   <div class="wp-block-cover__inner-container">
