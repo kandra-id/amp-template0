@@ -9,7 +9,7 @@ BLS Amerika Serikat mencatat bahwa angka kecelakaan kaki yang dialami oleh para 
 
 Banyak pekerja ataupun pengusaha yang belum memahami jenis sepatu safety terbaik yang seharusnya digunakan oleh pekerja. Padahal, tidak semua sepatu safety ternyata cocok untuk digunakan pekerja di semua jenis industri. Beberapa kriteria harus terdapat pada sepatu safety khusus untuk pekerja di bidang tertentu sementara bidang lainnya tidak.
 
-<amp-img width="630" height="473" src="{{site.url}}/assets/img/blog/sepatu-safety-jogger-dakar-300x225.jpg" alt="jogger dakkar"></amp-img>
+<amp-img width="630" height="473" src="{{site.url}}/assets/img/blog/sepatu-safety-jogger-dakar-300x225.jpg" alt="jogger dakkar" layout="responsive"></amp-img>
 
 ## **Rekomendasi Sepatu Safety Terbaik Sesuai Dengan Potensi Bahaya**
 
