@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /tips-memilih-truk-kategori-fuso-terbaik/
-tag: Sponsored
+tag: sponsored
 ---
 Truk merupakan kendaraan niaga yang menawarkan banyak sekali pilihan yang bisa disesuaikan dengan kebutuhan sebuah bisnis khususnya bisnis yang bergerak di sektor riil. 
 
