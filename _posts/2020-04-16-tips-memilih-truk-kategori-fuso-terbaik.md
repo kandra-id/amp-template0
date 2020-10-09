@@ -1,17 +1,7 @@
 ---
-id: 5520
-title: Tips Memilih Truk Kategori Fuso Terbaik
-date: 2020-04-16T08:19:19+00:00
-author: kandra
 layout: post
-guid: https://pencaricerah.com/?p=5520
 permalink: /tips-memilih-truk-kategori-fuso-terbaik/
-amp_status:
-  - disabled
-spay_email:
-  - ""
-categories:
-  - Sponsored
+tag: Sponsored
 ---
 Truk merupakan kendaraan niaga yang menawarkan banyak sekali pilihan yang bisa disesuaikan dengan kebutuhan sebuah bisnis khususnya bisnis yang bergerak di sektor riil. 
 
