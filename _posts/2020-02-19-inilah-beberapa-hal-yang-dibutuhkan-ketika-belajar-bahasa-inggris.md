@@ -6,7 +6,7 @@ author: kandra
 layout: post
 guid: https://pencaricerah.com/?p=5383
 permalink: /inilah-beberapa-hal-yang-dibutuhkan-ketika-belajar-bahasa-inggris/
-tag: Sponsored
+tag: sponsored
 ---
 Sekarang ini penggunaan bahasa Inggris untuk berkomunikasi dalam bisnis sudah digantikan dengan bahasa Mandarin. Hal ini banyak dipengaruhi dengan perkembangan ekonomi negeri Tiongkok yang mulai menggoyang beberapa negara adidaya seperti Amerika Serikat. Meskipun begitu masih banyak yang berpendapat menguasai bahasa Inggris tetap diperlukan karena merupakan bahasa pengantar Internasional yang belum tergantikan sepenuhnya oleh bahasa asing lainnya. Termasuk Bahasa Indonesia.
 
