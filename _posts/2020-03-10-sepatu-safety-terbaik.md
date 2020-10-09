@@ -2,6 +2,7 @@
 title: Jogger Dakkar Sepatu Safety Terbaik Lindungi Diri Anda
 description: Menjaga diri saat bekerja, mengurangi resiko cedera dengan menggunakan outfit yang tepat.
 layout: post
+permalink: /sepatu-safety-terbaik/
 tag: Sponsored
 ---
 BLS Amerika Serikat mencatat bahwa angka kecelakaan kaki yang dialami oleh para pekerja di industri berat masih tergolong cukup tinggi. Tercatat bahwa hampir sekitar 40 orang pekerja di industri pernah mengalami kecelakaan pada bagian jari kaki dan kakinya. Banyak hal yang bisa menjadi penyebab tingginya angka kecelakaan pekerja pada bagian kaki, salah satunya karena tidak dapat menggunakan sepatu _safety_ terbaik.
