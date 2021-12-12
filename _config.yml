@@ -4,5 +4,4 @@ url: https://kandra.id
 #url: https://old.pencaricerah.com
 author: kandra
 permalink: /:title
-plugins:
-  - jekyll-redirect-from
+
