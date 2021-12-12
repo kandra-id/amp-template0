@@ -1,7 +1,7 @@
 title: Kandra-ID
 description: Build With Jekyll &amp; Accelerated Mobile Pages
-#url: https://kandra-id.github.io
-url: https://old.pencaricerah.com
+url: https://kandra.id
+#url: https://old.pencaricerah.com
 author: kandra
 permalink: /:title
 plugins:
