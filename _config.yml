@@ -3,5 +3,5 @@ description: Build With Jekyll &amp; Accelerated Mobile Pages
 baseurl: blog
 #url: https://old.pencaricerah.com
 author: kandra
-permalink: /:title
+#permalink: /:title
 
